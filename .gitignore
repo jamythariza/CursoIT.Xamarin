@@ -3,3 +3,10 @@
 ################################################################################
 
 /CursoIT.Xamarin/CursoIT.Xamarin/CursoIT.Xamarin/bin/Debug/netstandard2.0
+/CursoIT.Xamarin/CursoIT.Xamarin/CursoIT.Xamarin/obj
+/.vs
+/CursoIT.Xamarin/CursoIT.Xamarin/CursoIT.Xamarin.Android/bin/Debug
+/CursoIT.Xamarin/CursoIT.Xamarin/CursoIT.Xamarin.Android/obj
+/CursoIT.Xamarin/CursoIT.Xamarin/CursoIT.Xamarin.iOS/bin/iPhoneSimulator/Debug
+/CursoIT.Xamarin/CursoIT.Xamarin/CursoIT.Xamarin.iOS/obj
+/CursoIT.Xamarin/.vs/CursoIT.Xamarin/v15
